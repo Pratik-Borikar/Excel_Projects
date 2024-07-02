@@ -32,3 +32,7 @@ The Excel workbook includes a dashboard that presents the analysis in an interac
 
 ## Conclusion
 The road accident analysis conducted in this project provides critical insights into the factors contributing to road accidents. By leveraging these insights, stakeholders can develop targeted strategies to enhance road safety and reduce the occurrence and severity of accidents.
+
+## Note:
+Due to the large size of the dataset (over 25 MB), it cannot be uploaded directly to GitHub. Instead, you can access the dashboard, analysis and dataset via Google Drive: 
+https://drive.google.com/drive/folders/1AfuOEUlt0msPcD7onxMLagdSLeDxyvsK?usp=drive_link
